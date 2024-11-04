@@ -3,7 +3,6 @@ C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJ
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.runtimeconfig.json
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.dll
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.pdb
-C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fTelaInicial.resources
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.csproj.GenerateResource.cache
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.AssemblyInfoInputs.cache
@@ -20,3 +19,10 @@ C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJ
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fNomeDoPersonagem.resources
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fSenhaSegura.resources
 C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fTransicaoSenhaSegura.resources
+C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.csproj.ResolveComReference.cache
+C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fMenuPrincipal.resources
+C:\Users\Vinícius Mota\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fTransicao.resources

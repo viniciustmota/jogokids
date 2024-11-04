@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sJogoKids")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbad133032afba7d0bf8128cf8e5fb66d3d31696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd6497baf3f27e730afe13a69e72fa44f274e13e")]
 [assembly: System.Reflection.AssemblyProductAttribute("sJogoKids")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sJogoKids")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

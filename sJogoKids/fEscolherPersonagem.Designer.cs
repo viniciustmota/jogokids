@@ -29,35 +29,56 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fEscolherPersonagem));
-            button1 = new Button();
+            imgProtetorGato1 = new PictureBox();
+            imgProtetorAlien = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)imgProtetorGato1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)imgProtetorAlien).BeginInit();
             SuspendLayout();
             // 
-            // button1
+            // imgProtetorGato1
             // 
-            button1.Location = new Point(353, 211);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 29);
-            button1.TabIndex = 1;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            imgProtetorGato1.BackColor = Color.Transparent;
+            imgProtetorGato1.Cursor = Cursors.Hand;
+            imgProtetorGato1.Image = (Image)resources.GetObject("imgProtetorGato1.Image");
+            imgProtetorGato1.Location = new Point(256, 268);
+            imgProtetorGato1.Name = "imgProtetorGato1";
+            imgProtetorGato1.Size = new Size(308, 305);
+            imgProtetorGato1.TabIndex = 2;
+            imgProtetorGato1.TabStop = false;
+            imgProtetorGato1.Click += pictureBox1_Click;
+            // 
+            // imgProtetorAlien
+            // 
+            imgProtetorAlien.BackColor = Color.Transparent;
+            imgProtetorAlien.Cursor = Cursors.Hand;
+            imgProtetorAlien.Image = (Image)resources.GetObject("imgProtetorAlien.Image");
+            imgProtetorAlien.Location = new Point(619, 268);
+            imgProtetorAlien.Name = "imgProtetorAlien";
+            imgProtetorAlien.Size = new Size(308, 305);
+            imgProtetorAlien.TabIndex = 3;
+            imgProtetorAlien.TabStop = false;
+            imgProtetorAlien.Click += imgProtetorAlien_Click;
             // 
             // fEscolherPersonagem
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(800, 450);
-            Controls.Add(button1);
+            ClientSize = new Size(1779, 1061);
+            Controls.Add(imgProtetorAlien);
+            Controls.Add(imgProtetorGato1);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "fEscolherPersonagem";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Form2";
             WindowState = FormWindowState.Maximized;
+            ((System.ComponentModel.ISupportInitialize)imgProtetorGato1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)imgProtetorAlien).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
-
-        private Button button1;
+        private PictureBox imgProtetorGato1;
+        private PictureBox imgProtetorAlien;
     }
 }

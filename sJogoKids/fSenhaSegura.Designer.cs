@@ -36,9 +36,12 @@
             btnProximo = new PictureBox();
             timer1 = new System.Windows.Forms.Timer(components);
             mensagemDeAjuda = new PictureBox();
+            lblNickname = new Label();
+            imgProtetor = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)btnAjuda).BeginInit();
             ((System.ComponentModel.ISupportInitialize)btnProximo).BeginInit();
             ((System.ComponentModel.ISupportInitialize)mensagemDeAjuda).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)imgProtetor).BeginInit();
             SuspendLayout();
             // 
             // txtSenha
@@ -46,9 +49,10 @@
             txtSenha.BackColor = Color.FromArgb(230, 225, 254);
             txtSenha.BorderStyle = BorderStyle.None;
             txtSenha.Font = new Font("Segoe UI", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtSenha.Location = new Point(561, 478);
+            txtSenha.Location = new Point(565, 479);
+            txtSenha.Margin = new Padding(3, 2, 3, 2);
             txtSenha.Name = "txtSenha";
-            txtSenha.Size = new Size(789, 50);
+            txtSenha.Size = new Size(690, 40);
             txtSenha.TabIndex = 0;
             // 
             // txtRepetirSenha
@@ -56,9 +60,10 @@
             txtRepetirSenha.BackColor = Color.FromArgb(230, 225, 254);
             txtRepetirSenha.BorderStyle = BorderStyle.None;
             txtRepetirSenha.Font = new Font("Segoe UI", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txtRepetirSenha.Location = new Point(561, 710);
+            txtRepetirSenha.Location = new Point(565, 712);
+            txtRepetirSenha.Margin = new Padding(3, 2, 3, 2);
             txtRepetirSenha.Name = "txtRepetirSenha";
-            txtRepetirSenha.Size = new Size(789, 50);
+            txtRepetirSenha.Size = new Size(690, 40);
             txtRepetirSenha.TabIndex = 1;
             // 
             // btnAjuda
@@ -66,9 +71,10 @@
             btnAjuda.BackColor = Color.Transparent;
             btnAjuda.Cursor = Cursors.Hand;
             btnAjuda.Image = (Image)resources.GetObject("btnAjuda.Image");
-            btnAjuda.Location = new Point(1665, 857);
+            btnAjuda.Location = new Point(1666, 856);
+            btnAjuda.Margin = new Padding(3, 2, 3, 2);
             btnAjuda.Name = "btnAjuda";
-            btnAjuda.Size = new Size(136, 145);
+            btnAjuda.Size = new Size(130, 136);
             btnAjuda.TabIndex = 3;
             btnAjuda.TabStop = false;
             btnAjuda.Click += btnAjuda_Click_1;
@@ -78,9 +84,10 @@
             btnProximo.BackColor = Color.Transparent;
             btnProximo.Cursor = Cursors.Hand;
             btnProximo.Image = (Image)resources.GetObject("btnProximo.Image");
-            btnProximo.Location = new Point(541, 857);
+            btnProximo.Location = new Point(540, 866);
+            btnProximo.Margin = new Padding(3, 2, 3, 2);
             btnProximo.Name = "btnProximo";
-            btnProximo.Size = new Size(843, 145);
+            btnProximo.Size = new Size(846, 116);
             btnProximo.TabIndex = 4;
             btnProximo.TabStop = false;
             btnProximo.Click += pictureBox2_Click;
@@ -90,7 +97,8 @@
             mensagemDeAjuda.BackColor = Color.Transparent;
             mensagemDeAjuda.Cursor = Cursors.Hand;
             mensagemDeAjuda.Image = (Image)resources.GetObject("mensagemDeAjuda.Image");
-            mensagemDeAjuda.Location = new Point(1396, 351);
+            mensagemDeAjuda.Location = new Point(1398, 341);
+            mensagemDeAjuda.Margin = new Padding(3, 2, 3, 2);
             mensagemDeAjuda.Name = "mensagemDeAjuda";
             mensagemDeAjuda.Size = new Size(447, 489);
             mensagemDeAjuda.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -99,18 +107,44 @@
             mensagemDeAjuda.Visible = false;
             mensagemDeAjuda.Click += mensagemDeAjuda_Click_1;
             // 
+            // lblNickname
+            // 
+            lblNickname.AutoSize = true;
+            lblNickname.BackColor = Color.Transparent;
+            lblNickname.Font = new Font("Segoe UI", 72F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblNickname.ForeColor = Color.FromArgb(255, 225, 30);
+            lblNickname.Location = new Point(797, 128);
+            lblNickname.Name = "lblNickname";
+            lblNickname.Size = new Size(657, 128);
+            lblNickname.TabIndex = 6;
+            lblNickname.Text = "GATINHO123";
+            lblNickname.Click += label1_Click;
+            // 
+            // imgProtetor
+            // 
+            imgProtetor.BackColor = Color.Transparent;
+            imgProtetor.Image = (Image)resources.GetObject("imgProtetor.Image");
+            imgProtetor.Location = new Point(472, 29);
+            imgProtetor.Name = "imgProtetor";
+            imgProtetor.Size = new Size(308, 305);
+            imgProtetor.TabIndex = 7;
+            imgProtetor.TabStop = false;
+            // 
             // fSenhaSegura
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 255, 192);
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(1892, 1041);
+            ClientSize = new Size(1924, 1061);
+            Controls.Add(imgProtetor);
+            Controls.Add(lblNickname);
             Controls.Add(mensagemDeAjuda);
             Controls.Add(btnProximo);
             Controls.Add(btnAjuda);
             Controls.Add(txtRepetirSenha);
             Controls.Add(txtSenha);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "fSenhaSegura";
             StartPosition = FormStartPosition.CenterParent;
             Text = " ";
@@ -119,6 +153,7 @@
             ((System.ComponentModel.ISupportInitialize)btnAjuda).EndInit();
             ((System.ComponentModel.ISupportInitialize)btnProximo).EndInit();
             ((System.ComponentModel.ISupportInitialize)mensagemDeAjuda).EndInit();
+            ((System.ComponentModel.ISupportInitialize)imgProtetor).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -131,5 +166,7 @@
         private PictureBox btnProximo;
         private System.Windows.Forms.Timer timer1;
         private PictureBox mensagemDeAjuda;
+        private Label lblNickname;
+        private PictureBox imgProtetor;
     }
 }

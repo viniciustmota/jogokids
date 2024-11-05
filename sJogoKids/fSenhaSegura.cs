@@ -17,6 +17,18 @@ namespace sJogoKids
         {
             InitializeComponent();
 
+
+            // Exibe o avatar selecionado
+            if (UsuarioInfo.AvatarEscolhido != null)
+            {
+                imgProtetor.Image = UsuarioInfo.AvatarEscolhido;
+            }
+            
+
+
+            lblNickname.Text = $"{UsuarioInfo.NomeUsuario}";
+
+
             // Configura o Timer
             timer1.Interval = 1000; // Define o intervalo para 5 segundos
             timer1.Tick += Timer1_Tick; // Adiciona o evento Tick do Timer
@@ -82,6 +94,11 @@ namespace sJogoKids
         private void btnAjuda_Click_1(object sender, EventArgs e)
         {
             mensagemDeAjuda.Visible = !mensagemDeAjuda.Visible; // Inverte a visibilidade
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

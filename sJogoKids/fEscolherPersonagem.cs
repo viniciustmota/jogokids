@@ -17,11 +17,31 @@ namespace sJogoKids
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void AbrirNomeDoPersonagem()
         {
             fNomeDoPersonagem nomeDoPersonagem = new fNomeDoPersonagem();
             nomeDoPersonagem.ShowDialog();
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            UsuarioInfo.AvatarEscolhido = imgProtetorGato1.Image;
+            AbrirNomeDoPersonagem();
+        }
+
+        private void imgProtetorAlien_Click(object sender, EventArgs e)
+        {
+            UsuarioInfo.AvatarEscolhido = imgProtetorAlien.Image;
+            AbrirNomeDoPersonagem();
+        }
+
+        
+
     }
 }

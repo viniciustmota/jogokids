@@ -48,6 +48,7 @@ namespace sJogoKids
         private void fTelaInicial_Load(object sender, EventArgs e)
         {
             mediaPlayer.Ctlcontrols.play();
+            
         }
 
         private void mediaPlayer_Enter(object sender, EventArgs e)

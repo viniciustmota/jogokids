@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Fatec\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Fatec\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\Vinícius Mota\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vinícius Mota\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

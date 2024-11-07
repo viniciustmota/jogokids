@@ -129,6 +129,7 @@
             imgProtetor.Size = new Size(308, 305);
             imgProtetor.TabIndex = 7;
             imgProtetor.TabStop = false;
+            imgProtetor.Click += imgProtetor_Click;
             // 
             // fSenhaSegura
             // 

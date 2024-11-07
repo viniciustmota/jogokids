@@ -64,12 +64,13 @@
             // 
             imgProtetor.BackColor = Color.Transparent;
             imgProtetor.Image = (Image)resources.GetObject("imgProtetor.Image");
-            imgProtetor.Location = new Point(812, 294);
+            imgProtetor.Location = new Point(784, 274);
             imgProtetor.Name = "imgProtetor";
-            imgProtetor.Size = new Size(304, 304);
-            imgProtetor.SizeMode = PictureBoxSizeMode.AutoSize;
+            imgProtetor.Size = new Size(349, 351);
+            imgProtetor.SizeMode = PictureBoxSizeMode.StretchImage;
             imgProtetor.TabIndex = 8;
             imgProtetor.TabStop = false;
+            imgProtetor.Click += imgProtetor_Click;
             // 
             // fNomeDoPersonagem
             // 

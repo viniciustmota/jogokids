@@ -29,52 +29,74 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fMenuPrincipal));
-            button1 = new Button();
             mediaPlayer = new AxWMPLib.AxWindowsMediaPlayer();
+            btnProximo = new PictureBox();
+            btnJogar = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)mediaPlayer).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)btnProximo).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)btnJogar).BeginInit();
             SuspendLayout();
-            // 
-            // button1
-            // 
-            button1.Location = new Point(309, 158);
-            button1.Margin = new Padding(3, 2, 3, 2);
-            button1.Name = "button1";
-            button1.Size = new Size(82, 22);
-            button1.TabIndex = 2;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
             // mediaPlayer
             // 
             mediaPlayer.Enabled = true;
-            mediaPlayer.Location = new Point(125, 38);
+            mediaPlayer.Location = new Point(608, 55);
             mediaPlayer.Margin = new Padding(3, 2, 3, 2);
             mediaPlayer.Name = "mediaPlayer";
             mediaPlayer.OcxState = (AxHost.State)resources.GetObject("mediaPlayer.OcxState");
             mediaPlayer.Size = new Size(450, 262);
             mediaPlayer.TabIndex = 3;
+            mediaPlayer.Visible = false;
             mediaPlayer.Enter += mediaPlayer_Enter;
+            // 
+            // btnProximo
+            // 
+            btnProximo.BackColor = Color.Transparent;
+            btnProximo.Cursor = Cursors.Hand;
+            btnProximo.Image = (Image)resources.GetObject("btnProximo.Image");
+            btnProximo.Location = new Point(266, 546);
+            btnProximo.Margin = new Padding(3, 2, 3, 2);
+            btnProximo.Name = "btnProximo";
+            btnProximo.Size = new Size(284, 78);
+            btnProximo.TabIndex = 6;
+            btnProximo.TabStop = false;
+            // 
+            // btnJogar
+            // 
+            btnJogar.BackColor = Color.Transparent;
+            btnJogar.Cursor = Cursors.Hand;
+            btnJogar.Image = (Image)resources.GetObject("btnJogar.Image");
+            btnJogar.Location = new Point(266, 458);
+            btnJogar.Margin = new Padding(3, 2, 3, 2);
+            btnJogar.Name = "btnJogar";
+            btnJogar.Size = new Size(284, 75);
+            btnJogar.TabIndex = 7;
+            btnJogar.TabStop = false;
+            btnJogar.Click += pictureBox1_Click;
             // 
             // fMenuPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(700, 338);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(1451, 749);
+            Controls.Add(btnJogar);
+            Controls.Add(btnProximo);
             Controls.Add(mediaPlayer);
-            Controls.Add(button1);
             Margin = new Padding(3, 2, 3, 2);
             Name = "fMenuPrincipal";
             Text = "fMenuPrincipal";
             WindowState = FormWindowState.Maximized;
             Load += fMenuPrincipal_Load;
             ((System.ComponentModel.ISupportInitialize)mediaPlayer).EndInit();
+            ((System.ComponentModel.ISupportInitialize)btnProximo).EndInit();
+            ((System.ComponentModel.ISupportInitialize)btnJogar).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
-
-        private Button button1;
         private AxWMPLib.AxWindowsMediaPlayer mediaPlayer;
+        private PictureBox btnProximo;
+        private PictureBox btnJogar;
     }
 }

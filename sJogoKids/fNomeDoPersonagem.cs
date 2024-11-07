@@ -15,6 +15,12 @@ namespace sJogoKids
         public fNomeDoPersonagem()
         {
             InitializeComponent();
+
+            // Exibe o avatar selecionado
+            if (UsuarioInfo.AvatarEscolhido != null)
+            {
+                imgProtetor.Image = UsuarioInfo.AvatarEscolhido;
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -43,6 +49,11 @@ namespace sJogoKids
             fTransicaoSenhaSegura transicaoSenhaSegura = new fTransicaoSenhaSegura();
             transicaoSenhaSegura.ShowDialog();
             this.Close();
+        }
+
+        private void imgProtetor_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

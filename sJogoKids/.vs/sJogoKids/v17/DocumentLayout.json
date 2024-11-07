@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\",
+  "WorkspaceRootPath": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\fatec\\downloads\\jogokids-main\\sjogokids\\fmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\fnomedopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:fnomedopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\fnomedopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:fnomedopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\fescolherpersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:fescolherpersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\fsenhasegura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:fsenhasegura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\fsenhasegura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:fsenhasegura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\fmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:fmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\fatec\\downloads\\jogokids-main\\sjogokids\\ftransicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:ftransicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\fatec\\downloads\\jogokids-main\\sjogokids\\fmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:fmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\ftransicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\ftransicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:ftransicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\ftransicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:ftransicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|c:\\users\\vin\u00EDcius mota\\downloads\\jogo\\jogokids-main\\sjogokids\\ftransicao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8174FD11-DD51-4C0B-AB90-5A500317146B}|sJogoKids.csproj|solutionrelative:ftransicao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +50,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fMenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "fMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs",
-              "RelativeToolTip": "fMenuPrincipal.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBgAAABnAAAA",
+              "DocumentIndex": 4,
+              "Title": "fSenhaSegura.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fSenhaSegura.cs",
+              "RelativeDocumentMoniker": "fSenhaSegura.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fSenhaSegura.cs",
+              "RelativeToolTip": "fSenhaSegura.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T20:43:11.378Z",
+              "WhenOpened": "2024-11-07T21:46:50.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fSenhaSegura.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fSenhaSegura.cs",
+              "RelativeDocumentMoniker": "fSenhaSegura.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fSenhaSegura.cs [Projeto]",
+              "RelativeToolTip": "fSenhaSegura.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:46:48.228Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fEscolherPersonagem.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fEscolherPersonagem.cs",
+              "RelativeDocumentMoniker": "fEscolherPersonagem.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fEscolherPersonagem.cs [Projeto]",
+              "RelativeToolTip": "fEscolherPersonagem.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:46:36.308Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "fTransicao.cs",
-              "DocumentMoniker": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fTransicao.cs",
+              "Title": "fNomeDoPersonagem.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fNomeDoPersonagem.cs",
+              "RelativeDocumentMoniker": "fNomeDoPersonagem.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fNomeDoPersonagem.cs",
+              "RelativeToolTip": "fNomeDoPersonagem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:46:29.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fNomeDoPersonagem.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fNomeDoPersonagem.cs",
+              "RelativeDocumentMoniker": "fNomeDoPersonagem.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fNomeDoPersonagem.cs [Projeto]",
+              "RelativeToolTip": "fNomeDoPersonagem.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:42:47.546Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fTransicao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fTransicao.Designer.cs",
+              "RelativeDocumentMoniker": "fTransicao.Designer.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fTransicao.Designer.cs",
+              "RelativeToolTip": "fTransicao.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:12:14.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fTransicao.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fTransicao.cs",
               "RelativeDocumentMoniker": "fTransicao.cs",
-              "ToolTip": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fTransicao.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fTransicao.cs [Projeto]",
+              "RelativeToolTip": "fTransicao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:35:55.441Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fTransicao.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fTransicao.cs",
+              "RelativeDocumentMoniker": "fTransicao.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fTransicao.cs",
               "RelativeToolTip": "fTransicao.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDYAAAAJAAAA",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T20:42:07.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "fMenuPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs",
+              "DocumentIndex": 5,
+              "Title": "fMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs",
               "RelativeDocumentMoniker": "fMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs [Projeto]",
-              "RelativeToolTip": "fMenuPrincipal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs",
+              "RelativeToolTip": "fMenuPrincipal.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAnwCsAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T20:41:25.766Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-11-04T20:43:11.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "fTransicao.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fTransicao.cs",
-              "RelativeDocumentMoniker": "fTransicao.cs",
-              "ToolTip": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\fTransicao.cs [Projeto]",
-              "RelativeToolTip": "fTransicao.cs [Projeto]",
+              "DocumentIndex": 6,
+              "Title": "fMenuPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "fMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\fMenuPrincipal.cs [Projeto]",
+              "RelativeToolTip": "fMenuPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:35:55.441Z",
+              "WhenOpened": "2024-11-04T20:41:25.766Z",
               "EditorCaption": " [Projeto]"
             }
           ]

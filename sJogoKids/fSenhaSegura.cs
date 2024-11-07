@@ -23,7 +23,7 @@ namespace sJogoKids
             {
                 imgProtetor.Image = UsuarioInfo.AvatarEscolhido;
             }
-            
+
 
 
             lblNickname.Text = $"{UsuarioInfo.NomeUsuario}";
@@ -97,6 +97,11 @@ namespace sJogoKids
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void imgProtetor_Click(object sender, EventArgs e)
         {
 
         }

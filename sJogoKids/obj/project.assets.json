@@ -8,23 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Fatec\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Vinícius Mota\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\sJogoKids.csproj",
+      "projectUniqueName": "C:\\Users\\Vinícius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\sJogoKids.csproj",
       "projectName": "sJogoKids",
-      "projectPath": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\sJogoKids.csproj",
-      "packagesPath": "C:\\Users\\Fatec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatec\\Downloads\\jogokids-main\\sJogoKids\\obj\\",
+      "projectPath": "C:\\Users\\Vinícius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\sJogoKids.csproj",
+      "packagesPath": "C:\\Users\\Vinícius Mota\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vinícius Mota\\Downloads\\jogo\\jogokids-main\\sJogoKids\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Fatec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vinícius Mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -73,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

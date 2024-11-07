@@ -39,6 +39,10 @@ namespace sJogoKids
                 MessageBox.Show("Arquivo de vídeo não encontrado em: " + path);
             }
 
+            // Configurar o evento KeyDown para capturar a tecla Espaço
+            this.KeyPreview = true; // Permite que o formulário capture eventos de tecla
+            this.KeyDown += Form_KeyDown;
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -54,6 +58,16 @@ namespace sJogoKids
         private void mediaPlayer_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void Form_KeyDown(object sender, KeyEventArgs e)
+        {
+            // Verifica se a tecla pressionada é Espaço
+            if (e.KeyCode == Keys.Space)
+            {
+                // Avança o vídeo para o final, encerrando a reprodução
+                mediaPlayer.Ctlcontrols.currentPosition = mediaPlayer.currentMedia.duration;
+            }
         }
 
         private void Timer_Tick(object sender, EventArgs e)

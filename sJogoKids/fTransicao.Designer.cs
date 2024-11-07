@@ -40,23 +40,20 @@ namespace sJogoKids
             // 
             mediaPlayer.Enabled = true;
             mediaPlayer.Location = new Point(0, -1);
+            mediaPlayer.Margin = new Padding(3, 2, 3, 2);
             mediaPlayer.Name = "mediaPlayer";
             mediaPlayer.OcxState = (AxHost.State)resources.GetObject("mediaPlayer.OcxState");
             mediaPlayer.Size = new Size(450, 262);
             mediaPlayer.TabIndex = 1;
             mediaPlayer.Enter += mediaPlayer_Enter;
             // 
-            // timer1
-            // 
-
-            // 
             // fTransicao
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(800, 1055);
+            ClientSize = new Size(700, 791);
             Controls.Add(mediaPlayer);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "fTransicao";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Robo Protetor: A missão";

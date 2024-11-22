@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.DataFormats;
 
 namespace sJogoKids
 {
     public partial class fNomeDoPersonagem : Form
     {
+
         public fNomeDoPersonagem()
         {
             InitializeComponent();
@@ -21,6 +23,8 @@ namespace sJogoKids
             {
                 imgProtetor.Image = UsuarioInfo.AvatarEscolhido;
             }
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -53,6 +57,16 @@ namespace sJogoKids
 
         private void imgProtetor_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            fEscolherPersonagem escolherPersonagem = new fEscolherPersonagem();
+            escolherPersonagem.ShowDialog();
+
+            // Fecha a tela atual
+            this.Close();
 
         }
     }

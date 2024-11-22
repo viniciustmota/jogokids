@@ -80,3 +80,31 @@ C:\Users\Vinícius Mota\Downloads\jogo\jogokids-main\sJogoKids\obj\Debug\net8.0-
 C:\Users\Vinícius Mota\Downloads\jogo\jogokids-main\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.pdb
 C:\Users\Vinícius Mota\Downloads\jogo\jogokids-main\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.genruntimeconfig.cache
 C:\Users\Vinícius Mota\Downloads\jogo\jogokids-main\sJogoKids\obj\Debug\net8.0-windows\ref\sJogoKids.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.exe
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.deps.json
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.runtimeconfig.json
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\sJogoKids.pdb
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.csproj.ResolveComReference.cache
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fEscolherPersonagem.resources
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fMenuPrincipal.resources
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fNomeDoPersonagem.resources
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fSenhaSegura.resources
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fTransicao.resources
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.fTransicaoSenhaSegura.resources
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.Properties.Resources.resources
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.csproj.GenerateResource.cache
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.AssemblyInfoInputs.cache
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.AssemblyInfo.cs
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.sourcelink.json
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\refint\sJogoKids.dll
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.pdb
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\sJogoKids.genruntimeconfig.cache
+C:\Users\Fatec\Downloads\jogokids\sJogoKids\obj\Debug\net8.0-windows\ref\sJogoKids.dll

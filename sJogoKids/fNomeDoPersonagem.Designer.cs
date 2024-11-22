@@ -31,8 +31,10 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fNomeDoPersonagem));
             txtNome = new TextBox();
             btnProximo = new PictureBox();
+            btnVoltar = new PictureBox();
             imgProtetor = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)btnProximo).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)btnVoltar).BeginInit();
             ((System.ComponentModel.ISupportInitialize)imgProtetor).BeginInit();
             SuspendLayout();
             // 
@@ -60,6 +62,18 @@
             btnProximo.TabStop = false;
             btnProximo.Click += btnProximo_Click;
             // 
+            // btnVoltar
+            // 
+            btnVoltar.BackColor = Color.Transparent;
+            btnVoltar.Cursor = Cursors.Hand;
+            btnVoltar.Location = new Point(1002, 859);
+            btnVoltar.Margin = new Padding(3, 2, 3, 2);
+            btnVoltar.Name = "btnVoltar";
+            btnVoltar.Size = new Size(381, 123);
+            btnVoltar.TabIndex = 10;
+            btnVoltar.TabStop = false;
+            btnVoltar.Click += pictureBox2_Click;
+            // 
             // imgProtetor
             // 
             imgProtetor.BackColor = Color.Transparent;
@@ -78,6 +92,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1864, 1033);
+            Controls.Add(btnVoltar);
             Controls.Add(imgProtetor);
             Controls.Add(btnProximo);
             Controls.Add(txtNome);
@@ -88,6 +103,7 @@
             WindowState = FormWindowState.Maximized;
             Load += fNomeDoPersonagem_Load;
             ((System.ComponentModel.ISupportInitialize)btnProximo).EndInit();
+            ((System.ComponentModel.ISupportInitialize)btnVoltar).EndInit();
             ((System.ComponentModel.ISupportInitialize)imgProtetor).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -96,6 +112,7 @@
         #endregion
         private TextBox txtNome;
         private PictureBox btnProximo;
+        private PictureBox btnVoltar;
         private PictureBox imgProtetor;
     }
 }
